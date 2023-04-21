@@ -22,6 +22,9 @@ Before running the application, you need to set up your Spotify credentials.
 
 ![Preview of the music recommendation system](https://user-images.githubusercontent.com/56232734/233535147-a3289944-cd47-4e5a-9c74-729d06b35dc4.jpg)
 
+## Medium Article
+You can read the steps i implemented to build this project on [Medium](https://medium.com/@ebulamicheal/how-to-build-a-music-recommendation-system-with-python-and-spotify-api-using-streamlit-5488d316aabd)
+
 ## Acknowledgements
 
 This project was built using the [Spotipy](https://github.com/plamere/spotipy) library and the [Streamlit](https://www.streamlit.io/) framework. Special thanks to the developers of these tools for making this project possible.
