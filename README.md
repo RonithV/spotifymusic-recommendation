@@ -20,7 +20,7 @@ Before running the application, you need to set up your Spotify credentials.
 
 ## Preview
 
-![Preview of the music recommendation system]
+![Preview of the music recommendation system](https://user-images.githubusercontent.com/56232734/233535147-a3289944-cd47-4e5a-9c74-729d06b35dc4.jpg)
 
 ## Acknowledgements
 
